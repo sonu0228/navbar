@@ -1,0 +1,126 @@
+<html>
+
+ <head>
+     
+    <title> Nav Bar</title>
+     <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet"href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min,js"></script>
+     <script src= "https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootsrap.min.js"></script>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    </head>
+    <body>
+    
+        <nav class="navbar-inverse" style="position:sticky;top:0;z-index:100;">
+        
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+            <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+            </button>
+        
+            <a class="navbar-brand" href="#">sohail</a>
+            
+            </div>
+            <div class="navbar-collapse collapse" id="mynavbar">
+                <ul class="nav navbar-nav">
+                    <li><a href="#About">About Me</a></li>
+                     <li><a href="#Education">Education</a></li>  
+                       <li><a href="#Skills">Skills</a></li> 
+                       <li><a href="#hobbies">hobbies</a></li> 
+                        <li><a href="#Inspiration"Inspiration></a></li>
+                      <li><a href="#Hobbies">Inspiration</a></li>  
+                         <li><a href="#My_location">My_location</a></li>  
+                </ul>
+            </div>
+         </nav>
+         <section id="About me">
+                    <center>
+                    <img class="img1" src="WhatsApp%20Image%202023-12-07%20at%2017.11.37_17cff7bc.jpg"><br>
+                    <h1>sohail</h1>
+             </center>
+        </section>
+          
+          <style>
+               
+           .img1{
+                       width: 200px;
+                       height: 200px;
+                       border-radius: 50%;
+                       border: 10px solid;
+                   }
+               </style>
+          
+         
+           
+          <section id="eduction">
+                        <center>
+                        <h2>eduction</h2>
+                        <h3>Degree</h3>
+                   <p> I completed my B.COM at Yogi vemana university of kadapa  with percent of 68%</p><br>
+                   <h3> Intermediate</h3>
+                  <p> I completed my intermediate at Shri shiridi sai Junior college of proddatur in the MPC  with percent of 51%</p><br>
+                  <h3>SSC</h3>
+                  <p> I completed my SSC at sarojini high school of proddatur  with percent of 72%</p><br>
+           
+            </center>
+               <br>
+        </section>
+                  
+                     
+                     <section id="skills">
+                         <center> 
+                       <h2>skills</h2>
+                        <p>msoffice<br>
+                           msword<br>
+                           excel<br>
+                             </p>
+                         
+                         </center>
+                     </section>
+                     
+                     
+                     <section id="hobbies">
+                         <center>
+                             <h2>hobbies</h2>
+                             <p>playing cricket<br>
+                                watching cricket<br>
+                                 
+                             </p>
+                         </center>
+                     </section>
+                     
+                     
+                     <section id="insprition">
+                         <center>
+                             <h2>insprition</h2>
+                             <img class="img1" src="https://qph.cf2.quoracdn.net/main-qimg-3d2ebf73c33979e3ce4579394bd3b285-lq">
+                             <p>What can we learn from Yuvraj Singh?
+However, Yuvraj's biggest contribution to Indian cricket has been his never-say-die attitude. The man is living proof that obstacles are meant to be surmounted. He continues to epitomise endurance with his aptly titled YOUWECAN Foundation.1</p>
+                         </center>
+                     </section>
+                     
+                <section id="location">     
+                     <center>   
+           <h2>MY LOCATION</h2>   
+       <iframe
+               width="600"
+                height="450"
+                src="https://www.google.com/maps/embed?
+                     @14.4200302, 78.2201891,14z/data !am6!3m5!1s0x3bb3eb2e5ed75315:0x40116b09df7f1ad4!8m2!3d14.4344355!4d78.2315067!16s%2Fg%2f11v15r5hbh?
+                     entry=ttu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                </center>
+        </section>
+                     
+        <style>
+            h2{
+                background-color: orangered;
+            }
+        </style>
+    
+    
+    
+</html>
